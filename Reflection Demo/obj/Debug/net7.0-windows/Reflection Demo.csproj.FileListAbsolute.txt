@@ -1,0 +1,17 @@
+D:\practices\Reflection Demo\Reflection Demo\bin\Debug\net7.0-windows\Reflection Demo.exe
+D:\practices\Reflection Demo\Reflection Demo\bin\Debug\net7.0-windows\Reflection Demo.deps.json
+D:\practices\Reflection Demo\Reflection Demo\bin\Debug\net7.0-windows\Reflection Demo.runtimeconfig.json
+D:\practices\Reflection Demo\Reflection Demo\bin\Debug\net7.0-windows\Reflection Demo.dll
+D:\practices\Reflection Demo\Reflection Demo\bin\Debug\net7.0-windows\Reflection Demo.pdb
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\Reflection Demo.csproj.AssemblyReference.cache
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\Reflection_Demo.Form1.resources
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\Reflection Demo.csproj.GenerateResource.cache
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\Reflection Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\Reflection Demo.AssemblyInfoInputs.cache
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\Reflection Demo.AssemblyInfo.cs
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\Reflection Demo.csproj.CoreCompileInputs.cache
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\Reflection Demo.dll
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\refint\Reflection Demo.dll
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\Reflection Demo.pdb
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\Reflection Demo.genruntimeconfig.cache
+D:\practices\Reflection Demo\Reflection Demo\obj\Debug\net7.0-windows\ref\Reflection Demo.dll
